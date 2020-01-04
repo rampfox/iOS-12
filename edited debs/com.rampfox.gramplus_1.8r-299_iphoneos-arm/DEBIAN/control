@@ -1,0 +1,14 @@
+Homepage: https://rampfox.github.io/depictions/?p=com.rampfox.gramplus
+Depiction: https://rampfox.github.io/depictions/?p=com.rampfox.gramplus
+Author: UnlimApps Inc. <support@unlimapps.com>
+Maintainer: Rampfox <alwiahdi@live.com>
+Name: Instagram ++
+Package: com.rampfox.gramplus
+Depends: mobilesubstrate, firmware (>= 7.0), com.unlimapps.uasharedtools (>= 2.2r-94)
+Conflicts: repo.biteyourapple.net.pluscrack, repo.biteyourapple.net.gramplus, com.jake0oo0.instabetter, com.insanj.savegram
+Section: Tweaks
+Version: 1.8r-299
+Architecture: iphoneos-arm
+Description: Download & Copy Instagram media
+dev: i4iphones
+Tag: purpose::extension, ios7support::1, ios8support::1

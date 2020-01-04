@@ -1,0 +1,16 @@
+Homepage: https://rampfox.github.io/depictions/?p=com.rampfox.uasharedtools
+Depiction: https://rampfox.github.io/depictions/?p=com.rampfox.uasharedtools
+Author: UnlimApps Inc. <support@unlimapps.com>
+Maintainer: Rampfox <alwiahdi@live.com>
+Name: uasharedtools (iOS 11)
+Package: com.rampfox.uasharedtools.nostash
+Provides: com.rampfox.uasharedtools.virtual
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Section: Tweaks
+Replaces: com.rampfox.uasharedtools.stash, com.rampfox.uasharedtools (<< 2.2r-36)
+Version: 2.2r-94
+Architecture: iphoneos-arm
+Description: shared tools for unlimapps tweaks
+dev: i4iphones
+Tag: purpose::library, role::developer

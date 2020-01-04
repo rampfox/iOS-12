@@ -1,0 +1,8 @@
+Package: com.rampfox.crackplus
+Version: 3.7
+Section: Tweaks
+Maintainer: rampfox <alwiahdi@live.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: CrackPlus ++
+Author: Othman Almutari <http://kiiimo.org>

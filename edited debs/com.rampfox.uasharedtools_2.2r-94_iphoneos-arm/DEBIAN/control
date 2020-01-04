@@ -1,0 +1,14 @@
+Homepage: https://rampfox.github.io/depictions/?p=com.rampfox.uasharedtools
+Depiction: https://rampfox.github.io/depictions/?p=com.rampfox.uasharedtools
+Author: UnlimApps Inc. <support@unlimapps.com>
+Maintainer: Rampfox <alwiahdi@live.com>
+Name: uasharedtools
+Package: com.rampfox.uasharedtools
+Depends: com.rampfox.uasharedtools.nostash | com.rampfox.uasharedtools.stash
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools
+Section: Tweaks
+Version: 2.2r-94
+Architecture: iphoneos-arm
+Description: shared tools for unlimapps tweaks
+dev: i4iphones
+Tag: purpose::library, role::developer
